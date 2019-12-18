@@ -1,0 +1,26 @@
+{
+  "name": "graphql-sequelize-node",
+  "version": "0.0.1",
+  "description": "Demo example using GraphQL, Sequelize and NodeJS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "graphql",
+    "sequelize",
+    "mysql"
+  ],
+  "author": "JoseAlbertoVazq",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.9.14",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^14.5.8",
+    "mysql2": "^2.0.2",
+    "sequelize": "^5.21.3",
+    "sequelize-cli": "^5.5.1"
+  }
+}
