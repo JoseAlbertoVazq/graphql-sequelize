@@ -19,7 +19,7 @@ case, I have used MySQL as db. Let's see:
 "development": {
     "username": "root",
     "password": "password",
-    "database": "passport_dev",
+    "database": "graphql_dev",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "operatorsAliases": false
