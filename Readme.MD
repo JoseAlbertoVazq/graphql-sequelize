@@ -59,7 +59,7 @@ beautiful backend in http://localhost:3000
 
 ## Oh wait, no routes? what?
 
-If you are new using GraphQL you will see some little tiny differences with REST. Resolvers and Schemas are in their own folders at the root of the project. If this is your first time with GraphQL, I recommend you to follow first this tutorial: https://www.howtographql.com/
+If you are new using GraphQL you will see some little tiny differences with REST. Resolvers and Schemas are in their own folders at the root of the project. If this is your first time with GraphQL, I recommend you to follow first [this tutorial](https://www.howtographql.com/)
 
 ## Where can I work with this backend?
 
@@ -72,7 +72,7 @@ Any doubts, any suggestion, any request or any invitation to a good dinner, you 
 José Alberto Vázquez López
 
 You can find me on: 
-- Linkedin: https://www.linkedin.com/in/josealbertovazq/
-- Twitter: https://twitter.com/JoseAlbertoVazq
-- Instagram: https://www.instagram.com/JoseAlbertoVazq
-- Facebook: https://www.facebook.com/JoseAlbertoVazq
+- [Linkedin](https://www.linkedin.com/in/josealbertovazq/)
+- [Twitter](https://twitter.com/JoseAlbertoVazq)
+- [Instagram](https://www.instagram.com/JoseAlbertoVazq)
+- [Facebook](https://www.facebook.com/JoseAlbertoVazq)
